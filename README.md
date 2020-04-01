@@ -5,3 +5,7 @@ Python libraries used:
 smtplib --> to connect with SMTP mail server
 MIMEText, MIMEMultipart --> to create text of mail body
 pyodbc --> to connect with database
+
+Mail output will look like:
+
+![](mail_sample.PNG)
