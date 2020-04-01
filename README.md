@@ -7,7 +7,7 @@ This Python script is used to send customized HTML table to users which tracks i
 
 smtplib --> to connect with SMTP mail server</br>
 MIMEText, MIMEMultipart --> to create text of mail body</br>
-pyodbc --> to connect with database</br>
+pyodbc --> to connect with database (Here I have used MSSQL database)</br>
 
 ## Mail output will look like:
 
